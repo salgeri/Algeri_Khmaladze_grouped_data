@@ -2,7 +2,7 @@
 ################################################################################
 ##                                                                            ##
 ## Code needed to replicate the results obtained for Example III, i.e.,       ##
-## the power simualtion described in Sec 6.2 and right panel of Figure 2      ##
+## the power simulation described in Sec 6.2 and right panel of Figure 2      ##
 ##                                                                            ##
 ################################################################################
 ################################################################################
