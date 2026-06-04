@@ -1,6 +1,4 @@
-# Replication Code and Data
-
-Code and data needed to replicate the results in **Algeri and Khmaladze (2026)**
+Code and data needed to replicate the results in **Algeri and Khmaladze, JRSS B (2026)**
 [https://arxiv.org/abs/2406.09195](https://arxiv.org/abs/2406.09195)
 
 ---
