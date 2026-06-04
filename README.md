@@ -1,4 +1,4 @@
-Code and data needed to replicate the results in **Algeri and Khmaladze, *On the statistical analysis of grouped data: when Pearson χ² and other divisible statistics are not goodness-of-fit tests*, Journal of the Royal Statistical Society B (2026)**
+Code and data needed to replicate the results in **Algeri and Khmaladze, *On the statistical analysis of grouped data: when Pearson χ² and other divisible statistics are not goodness-of-fit tests*, Journal of the Royal Statistical Society B (2026)**. Preprint: 
 [https://arxiv.org/abs/2406.09195](https://arxiv.org/abs/2406.09195)
 
 ---
