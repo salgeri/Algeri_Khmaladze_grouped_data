@@ -112,6 +112,8 @@ for(b in 1:B){
   print(b)
 }
 
+sd(Pearson1_hat)
+
 qL_Pearson_hat<-quantile(Pearson_hat,alpha/2)
 qU_Pearson_hat<-quantile(Pearson_hat,1-alpha/2)
 
